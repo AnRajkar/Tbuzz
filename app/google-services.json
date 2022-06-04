@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "6526482036",
+    "project_id": "tbuzz-63a1a",
+    "storage_bucket": "tbuzz-63a1a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6526482036:android:4098dca872f8476a14c321",
+        "android_client_info": {
+          "package_name": "com.animesh.tbuzz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6526482036-ik0smbvpspbq46gk514j1ilp27tqkli4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.animesh.tbuzz",
+            "certificate_hash": "23bfa8ed0e6cfbca35939105e52e6839ad1c6faa"
+          }
+        },
+        {
+          "client_id": "6526482036-qo8legq0f560es82i2fv9dlqohkjgb7s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzSqcHTwkiqKHCv-8iq1vHfeGokfQh9xE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6526482036-qo8legq0f560es82i2fv9dlqohkjgb7s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
